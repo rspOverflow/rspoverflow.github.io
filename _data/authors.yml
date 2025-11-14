@@ -1,0 +1,14 @@
+nanoHeap:
+  name: "nanoHeap"
+  bio: "I just do things because they are fun."
+  avatar: "https://secure.gravatar.com/avatar/8ff8ba6ad122a2cbc945d7286c9d4a6ae0ec82d5d977b65dd95a616a751894a3?s=384&d=identicon"
+  links:
+    - label: "GitLab"
+      icon: "fa-brands fa-gitlab"
+      url: "https://gitlab.com/nanoHeap/"
+    - label: "GitHub"
+      icon: "fa-brands fa-github"
+      url: "https://github.com/rspOverflow/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:work.nanoheap@gmail.com"
