@@ -5,7 +5,7 @@ permalink: /about
 
 # About Me
 
-My name is nanoHeap. I'm also known as rspOverflow on GitHub.
+My name is rspOverflow. I'm also known as nanoHeap on GitLab.
 I have been writing code since around 2018-2019.
 
 Nowadays, I have been primarily been writing mostly in C/C++ but I started off with Python.
