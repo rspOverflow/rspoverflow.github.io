@@ -3,8 +3,6 @@ layout: single
 permalink: /about
 ---
 
-# About Me
-
 My name is rspOverflow. I'm also known as nanoHeap on GitLab.
 I have been writing code since around 2018-2019.
 
