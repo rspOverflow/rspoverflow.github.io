@@ -23,7 +23,7 @@ email: work.nanoheap@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   rspOverflow's (aka nanoHeap's) blog and portfolio website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rspoverflow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 exclude:
   - "README.md"
@@ -36,7 +36,7 @@ atom_feed:
   hide: true
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
 
