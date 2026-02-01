@@ -59,15 +59,18 @@ author:
   avatar : "https://avatars.githubusercontent.com/u/217881046?s=96&v=4"
   bio    : "I build stuff...for fun!"
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://rspoverflow.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rspOverflow"
+      url: "https://github.com/rspOverflow/"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rspOverflow"
+      url: "https://github.com/rspOverflow/"
 
 defaults:
   # _posts
