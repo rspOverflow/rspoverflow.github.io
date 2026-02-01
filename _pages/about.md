@@ -7,4 +7,4 @@ Hello! My name is rspOverflow. I am a hobby programmer who actively writes C/C++
 
 I'm interested in high performance small form factor hardware, robotics, game development, and systems programming.
 
-Outside of programming, I enjoy video games, TV (Andor and Mr. Robot), and movies (Star Wars and Ready Player One).
+Outside of programming, I enjoy video games, TV (Andor and Mr. Robot), and movies (Star Wars and Ready Player One). I also really like cats.
