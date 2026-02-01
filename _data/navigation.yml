@@ -1,11 +1,5 @@
 main:
   - title: "Posts"
-    children:
-      - title: "By Year"
-        url: /year-archive/
-      - title: "By Categories"
-        url: /categories/
-      - title: "By Tags"
-        url: /tags/
+    url: /posts/
   - title: "About"
     url: /about/
