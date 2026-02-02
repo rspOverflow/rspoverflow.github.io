@@ -1,5 +1,5 @@
 ---
-title: "Can we not?"
+title: "Can we not? Why replacing humans with LLMs are a bad idea."
 categories:
   - Opinion
 ---
