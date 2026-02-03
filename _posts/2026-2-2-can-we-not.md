@@ -49,5 +49,5 @@ It is a bad business decision to replace human employees with LLM agents due to 
 the industry or product. As a investor, it is in your best interest that a business continues to produce a valuable product and have a loyal consumer 
 base who still perceives value within your product. LLM agents destroy this as they are optimized to generate the most likely solutions, not the most 
 valuable solutions for your customers. Thus, it is not wise to replace human employees with LLM agents entirely and have an entire division or even the 
-whole company operated by LLM agents. I'm not completely against LLM technology, but it begs the question: Since innovation cannot be undone, is there a 
-way to combine LLM agents and human programmers together to get the best of both worlds?
+whole company operated by LLM agents. I'm not completely against LLM technology, but it begs the following: Assuming innovation cannot be undone, is 
+there a way to combine LLM agents and human programmers together to get the best of both worlds?
