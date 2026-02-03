@@ -34,8 +34,8 @@ simply only know the most likely solution to a problem not the most optimal. A b
 their creative engines for a statistically "most likely" engine based on past data. For certain sensitive applications like high frequency trading, this 
 past looking behavior and synthesizing solutions from old algorithms or heuristics is not ideal and can cause the trader to lose a lot of money to a 
 competitor who continues to innovate. The use of LLM agents also call into question the concept of IP (Intellectual Property) since LLM agents (in 
-reality) regurgitate code with modifications rather than developing unique code making copyright questionable. For a business, these issues opens up a 
-lot of legal risk.
+reality) regurgitate code with minor modifications rather than developing unique code making copyright questionable. For a business, these issues opens 
+up a lot of legal risk.
 
 Furthermore, the extensive use of LLM agents to develop products within the industry will cause products to become extremely similar with little to no 
 unique value. This leads into the concept of "enshittification" where products plateau in innovation (a.k.a become "slop") and value while prices may 
